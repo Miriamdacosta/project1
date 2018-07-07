@@ -4,7 +4,4 @@
 
 layout: home
 
-<p>Hola</p>
-
-
 ---
